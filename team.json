@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "Nour",
+  "title": "Software Test Technician",
+  "email": "nour@tester.test",
+  "test_types": {
+    "basic": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+    "DMIL": [70, 71]
+  }
+}
